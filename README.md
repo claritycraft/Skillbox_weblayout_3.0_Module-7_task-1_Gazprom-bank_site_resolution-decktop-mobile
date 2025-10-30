@@ -1,0 +1,1 @@
+# Skillbox_weblayout_3.0_Module-7_task-1_Gazprom-bank_site_resolution-decktop-mobile
