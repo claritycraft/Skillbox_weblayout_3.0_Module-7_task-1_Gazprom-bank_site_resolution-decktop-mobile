@@ -8,10 +8,10 @@ En: Completed coursework for the Skillbox Web Development 3.0 course, Module 7, 
 
 Ru: Готовая учебная работа по курсу от Skillbox Веб разработка 3.0 Модуль 7, задание 1. Макет страницы Газпром банк: для версии десктоп, планшет, мобильный телефон(мобильные устройства).
 
-## Completed Task:
+## En: Completed Task:
 Develop the tablet and mobile versions of the homepage for the “Pro Finance” online magazine on the Gazprombank website, based on the design provided in the Figma mockup.
 
-##  Выполненное задание: 
+## Ru: Выполненное задание: 
 Сформировать планшетную и мобильную версию для главной страницы онлайн-журнала «Про финансы» сайта «Газпромбанка», основываясь на дизайне из предоставленного макета в Figma.
 
 En: Portfolio layout link: https://www.figma.com/design/6j9HAENvBYCOv5ZlQ9dJjG/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-2384?node-id=1-395&t=KunCNIyliqSfIMrh-0
