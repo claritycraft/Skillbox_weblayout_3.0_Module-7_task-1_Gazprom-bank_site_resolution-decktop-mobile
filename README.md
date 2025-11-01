@@ -1,6 +1,9 @@
 # En: Skillbox_weblayout_3.0_Module-7_task-1_Gazprom-bank_site_resolution-decktop-mobile
 # Ru: Skillbox_веб-верстка_3.0_Модуль-7_Задание-1_Газпром-банк_одностраничный сайт_адаптация для десктопа и мобильных устройств
 
+### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
+### Please give this project a star ⭐ if you found it interesting.
+
 En: Completed coursework for the Skillbox Web Development 3.0 course, Module 7, Assignment 1: Single-page layout for the Gazprombank site for decktop tablet mobile resolutions. 
 
 Ru: Готовая учебная работа по курсу от Skillbox Веб разработка 3.0 Модуль 7, задание 1. Макет страницы Газпром банк: для версии десктоп, планшет, мобильный телефон(мобильные устройства).
